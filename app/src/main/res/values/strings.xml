@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="title">Title</string>
+    <string name="price">Price\n</string>
+    <string name="brand">Brand</string>
+    <string name="Describtion">Describtion</string>
+    <string name="Rating">Rating</string>
+    <string name="prev">prev</string>
+    <string name="next">Next</string>
+    <string name="show">show all products\n</string>
+    <string name="showFav">show Favourate product\n</string>
+    <string name="exit">Exit</string>
+    <string name="add">Add to favourate</string>
+    <string name="remove">Remove from Favourate</string>
+</resources>
