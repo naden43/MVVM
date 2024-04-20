@@ -1,7 +1,7 @@
 Description :
     This a simple app to learn the MVVM concept and its power in a product project
     
-Technologies : 
+Technologies :    
 1- Room Database  
 2- Retrofit  
 3- Glide  
