@@ -6,7 +6,7 @@ Technologies :
 2- Retrofit  
 3- Glide  
 4- List Adapter  
-5- Coroutines﻿ 
+5- Coroutines﻿           
 6- Shared flow/state flow  
 
 
